@@ -1,0 +1,15 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Simulator\obj\x86\Debug\Simulator.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Simulator\obj\x86\Debug\Simulator.Properties.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Simulator\obj\x86\Debug\Simulator.csproj.GenerateResource.Cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Simulator\Simulator\bin\Debug\Simulator.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Simulator\Simulator\obj\x86\Debug\Simulator.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Simulator\Simulator\obj\x86\Debug\Simulator.Properties.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Simulator\Simulator\obj\x86\Debug\Simulator.csproj.GenerateResource.Cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Simulator\Simulator\obj\x86\Debug\Simulator.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Simulator\Simulator\obj\x86\Debug\Simulator.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Simulator\Simulator\obj\x86\Debug\Simulator.FullView.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Simulator\Simulator\obj\x86\Debug\Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Simulator\Simulator\obj\x86\Debug\Simulator.FullViewOutput.resources
+C:\Users\Chris\Desktop\drive\Simulator\Simulator\obj\x86\Debug\Simulator.exe
+C:\Users\Chris\Desktop\drive\Simulator\Simulator\obj\x86\Debug\Simulator.pdb
